@@ -1,0 +1,34 @@
+                                      // LEARN JAVA: VARIABLES //
+                                      
+                                      - Java programming language has a static typing. 
+                                      Java will not compile if a variable it assigned a 
+                                      value of an incorrect type. This is a bug. 
+                               
+                      ------------------------------------------------------------------------------
+                               
+                                                 // TASK // 
+                                                 
+                                       In the Mess.java file bellow,
+                                       The declariation is wrong, as is the value. 
+                                       Change it to the correct declation to its value: 
+                                      
+                                      
+                                         public class Mess {
+	                                          public static void main(String[] args) {   
+		                                           String year = 2001;
+                                                double title = "Shrek";
+                                                int genre = 'C';
+                                                boolean runtime = 1.58;
+                                                char isPG = true;
+	                                          }
+                                          }
+                                          
+                                       ------------------------------------------
+                                       
+                                                //  Awnser //
+                             
+                                                  int year = 2001; 
+                                                  String title = "Shrek"; 
+                                                  char genre = 'C'; 
+                                                  double runtime = 1.58; 
+                                                  boolean isPG = true;
