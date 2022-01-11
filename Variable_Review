@@ -1,0 +1,39 @@
+                                                  // Review // 
+                                                  
+                                              We have now gone through: 
+                                              
+                                            - Int, which store whole numbers. 
+                                            - double, which stores bigger whole numbers and decimal numblers. 
+                                            - boolean, which stores true and false. 
+                                            - char, which stores single characters using single qoutes. 
+                                            
+                                            
+          ---------------------------------------------------------------------------------------------------------------------------
+                                        
+                                                    // TASK // 
+                                                   
+                                                 Make a "CV" for a job. 
+                                                 Write in your first and last name. 
+                                                 Age, and your average grade. (In letters and in points.)
+                                                 Awnser if you have any allergies, and if youre willingly to work at night. 
+                                                 
+                                               --------------------------------------------
+                                               
+                                                    // Awnser // 
+                                                    
+                                         public class main {
+                                            public static void main(String[] args) {
+                                                String firstName = "Ida";
+                                                String lastName = "Pølse";
+                                                int age = 21;
+                                                char schoolGrade = 'B'; 
+                                                double averagePoints = 4.1; 
+                                                boolean allergies = false; 
+                                                boolean workAtNight = true; 
+                                            }
+                                         }
+                                       
+                                                    
+                                                 
+                                                  
+                                
