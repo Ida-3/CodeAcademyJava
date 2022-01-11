@@ -1,0 +1,41 @@
+                                           // LEARN JAVA: VARIABLES //
+                                           
+                                           - We store information in variables.
+                                           - Nameing a piece of information allows us to use that later. 
+                                           - Variables gices context and meaning to data were storing. 
+                                           - In java we specify of the information were sorting. 
+                                           
+                                           
+                                           //Primitive datatypes
+                                           
+                                           - Three main ones are; int, double and boolean. 
+                                           
+                                           - We must declare a variable to refrence it whitin our program.
+                                           Declaring a variable requires that we specify the type and name. 
+                                           
+                                           //IMPORTANT: always give the variables, easy and understanding names. 
+                                           It will be easier to read it ourself, and for others. //
+                                           
+                                            If you got a ton of job applications, and you wanted to sort
+                                           them out, by their age, salary requirements and if they are employed or not.
+                                           Example: 
+                                           
+                                                        int age; 
+                                                        double salaryRequirement; 
+                                                        boolean isEmployed; 
+                                           
+                                          - After giving the variables good enough names, We should now add value. 
+                                          
+                                          Example:      
+                                                        int age; 
+                                                        double salaryRequirement; 
+                                                        boolean isEmployed; 
+                                                        
+                                                        age = 85; 
+                                                        
+                                                        System.out.println(age); 
+                                                        
+                                                        //It will now print out 85; 
+                                                    
+                                              
+                                            
