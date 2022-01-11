@@ -1,0 +1,26 @@
+                                           // LEARN JAVA: VARIABLES //
+                                           
+                                           - Strings are objects with built in behaviour. 
+                                           - Strings hold sequences of character. 
+                                           
+                                           - There are two ways to create a String. 
+                                               -  Using a string literal. 
+                                               -  calling the class to create a new String Object. 
+                                               
+                                               A string literal is any sequence of charcater enclosed
+                                               in double qoutes (" "). 
+                                               Like primitive types, we declare a string variable by specifying the type first; 
+                                               
+                                               String greeting = "Hello World"; 
+                                               
+                                               We could also create a new String object by calling the String class
+                                               when declaring a String like so: 
+                                               
+                                               String salutations = new String("Hello World"); 
+                                               
+                                               
+                                        
+                                           
+                                           
+                                           
+                                      
