@@ -1,0 +1,60 @@
+                                                 // Symbols //
+                                                 
+                                                 
+                                                 
+                                            // Comparison Operators // 
+                                                 
+                                                 > greater tham 
+                                                 < less than 
+                                                 >= greater than or equal to 
+                                                 <= less than or equal to 
+                                                 == equal to 
+                                                 != not equal to 
+                                                 
+                                                 
+                                              // Math operations //       
+                                  
+                                                 + addition 
+                                                 - subtraction
+                                                 * multiplication
+                                                 / division
+                                                 % modulo 
+                                                    
+                                             
+                                            // Diffrent slash signs // 
+                                           
+                                 Escape sequances have an alternative use in 
+                                 java print statements. 
+                        
+                                 Escape characters begin with the character \
+                                 
+                                 The \" escape sequance allows us to add quotation amrks " to a string value: 
+                                 
+                                 System.out.println("\Hello World\"")
+                                 // Prints: "Hello World" 
+                                 
+                                 If we didn't use an escape sequance,
+                                 then java would think were using " to the end of the string. 
+                                 
+                                 Using the \\ escape sequance allows us to the place backslashses in our String text: 
+                                 System.out.println("This is the blackslash symbol: \\");
+                                 // Prints: This is the backslash symbol: \ 
+                                 
+                                This is similar to the last example - 
+                                just like ", \ usually has a special meaning. 
+                                In this case, \ is used to start an escape sequence. 
+                                Well, if we don’t want to start an escape sequence and just want a \ in our String, 
+                                then we’ll use \\ — we’re using an escape sequence to say that we don’t want \ to be 
+                                interpreted as the start of an escape sequence. 
+                                
+                                If we place \n escape sequance in a String,
+                                the compiler will output a new line of text: 
+                                
+                                System.out.println("Hello\nGoodbye"); 
+                                /* 
+                                Prints: 
+                                Hello 
+                                Goodbye
+                                */
+                                
+                                You can think of \n as the escape for "newline". 
