@@ -1,0 +1,32 @@
+                                                    // LEARN JAVA: VARIABLES //
+                                               
+                                               - boolean can only use true and false. 
+                                                  - Is it true that you ate breakfast? 
+                                                  
+                                                  boolean javaIsACompiledLanguage = true;
+                                                  boolean javaIsACupOfCoffe = false; 
+                                               
+                                               - We use boolean values to navigate decisions in our programs. 
+                                               
+                                    ---------------------------------------------------------------------------------
+                                               
+                                                               // Task // 
+                                                               
+                                                       Create a variable called intsCanHoldDecimals.
+                                                       Set it to true, if the int type can hold decimals. 
+                                                       Set it to false, if the int cannot do this.
+                                                       And then print it. 
+                                                       
+                                                       public class Booleans {
+                                                          public static void main(String[] args) {
+                                                            boolean intsCanHoldDecimals = false; 
+                                                            
+                                                            System.out.println(intsCanHoldDecimals);
+                                                          }
+                                                        }  
+                                                       
+                                                   
+                                                       
+                                                       
+                                               
+                                               
