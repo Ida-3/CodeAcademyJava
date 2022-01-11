@@ -1,0 +1,19 @@
+                                              // LEARN JAVA: VARIABLES //
+                                              
+                          - The char data type can hold any character, like a letter, space, or punctuatial mark.        
+                          - Char can only be surrounded with '. 
+                          
+                          For example: 
+                          
+                          char grade = 'A'; 
+                          char firstLedder = 'p'; 
+                          char punctuation = '!'; 
+                          
+                          ------------------------------------------------------------------------------------------------
+                          
+                                                          // Task // 
+                                                  
+                          Create a variable called expectedGrade of type char. 
+                          
+                          Fill it with a single letter, representing the grade you think
+                          you would get in a graded Java course where the grades A, B, C, D, and F. 
