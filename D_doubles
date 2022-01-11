@@ -1,0 +1,31 @@
+                                                //  LEARN JAVA: VARIABLES // 
+                                                
+                                              - We use doubles when we need to half numbers, like prices etc. 
+                                              - double can hold decimals, very small and very large numbers. 
+                                              - The maximum a double can hold is: 1.797,693,134,862,315,7 
+                                              
+                                              To declare a double variable, we use double. 
+                                              Example: 
+                                              
+                                              double prince = 8.99; 
+                                              double gdp = 122377000000; 
+                                              
+                                              // You can use "_" to make the numbers more readable!
+                                              Example: 
+                                              
+                                              doble gdp = 122_377_000_000;
+                                            
+                                       -----------------------------------------------------------------------------
+                                       
+                                                            // TASK // 
+                                                            
+                                              - As of 2016, Android has 81.7 percent marked share. 
+                                              Create a variable called androidShare that holds this percantage as a double.
+                                              
+                                              public class MarketShare {
+	                                              public static void main(String[] args) {
+                                                   double androidShare = 81.7;
+
+                                                   System.out.println(androidShare);
+	                                              }
+                                              } 
