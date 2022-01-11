@@ -1,0 +1,45 @@
+                        
+                        
+                                                  // Java Review: Putting It All Together //
+                                                      
+                                       
+                                         - Java programs have at least one class and one main() methods.    
+                                         - Each class represents one real-words idea. 
+                                         - The main() methods runs the task of the program. 
+                                        
+                                         - Java commetns add helpful context to human readers. 
+                                                  // This is a comment
+                                            
+                                         - Java has whitespace, curly brackets and semicolons. 
+                                         
+                                         - White space is for humans to read code easily. 
+                                         - Curly braces mark the scope of a class and method. 
+                                         - Semicolons mark the end of a statement.
+                                         
+                                         - Java is a compiled language. 
+                                         
+                                         - Compiling catches mistakes in our code. 
+                                         - Compilers transform code into an executable class. 
+                                         
+                                         
+                               ----------------------------------------------------------------------------------
+                               
+                                                            // TASK 
+                                                            
+                                          - The text editor holds an empty file named Review.java. Write it in. 
+                                          - Define a public class named Review. 
+                                          - Add a main() method. 
+                                          - Print out Hello, world.
+                                                            
+                                                                    
+                                           public class Review {
+                                               public static void main(String[] args) {
+                        
+                                                 System.out.println("Hello, world");
+                                             }
+                                           }                     
+                                         
+                                       
+                                       
+                                       
+                                         
