@@ -31,3 +31,52 @@ evenlyDivided stores what you expect, but unevenlyDivided holds 2 because ints c
 It’s important to note that the int doesn’t round the decimal, but floors it. Java removes the 0.5 to fit the result into an int type!
 
 It’s important to note that if we try to divide any number by 0, we will get an ArithmeticException error as a result.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                          // TASK // 
+                                                          
+In main(), there is a variable called subtotal, which represents the subtotal of an amount to pay on a bill, 
+and a variable called tax, which represents the tax rate that will be applied to that subtotal.
+
+Create a double variable, total, that holds subtotal plus the product of subtotal and tax.
+Print the total variable                                             
+
+public class MultAndDivide {
+	public static void main(String[] args) {   
+		double subtotal = 30;
+    double tax = 0.0875;
+	}
+}
+                                                         
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                        // Awnser //                                     
+                                             
+public class MultAndDivide {
+	public static void main(String[] args) {   
+		double subtotal = 30;
+    double tax = 0.0875;
+    double total = subtotal + subtotal*tax;
+    System.out.println(total);
+    double perPerson = total/4;
+    System.out.println(perPerson);
+	}
+}
+
+
+
+
+
+
+                                       
+
+
+
+
+
+
+
+
+
