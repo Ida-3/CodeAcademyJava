@@ -49,6 +49,13 @@ public class MultAndDivide {
     double tax = 0.0875;
 	}
 }
+
+After you have done the task above: 
+
+There were 4 people who bought this meal together and want to split the cost.
+Create a double variable called perPerson that holds total divided by 4.
+
+Print the perPerson variable!
                                                          
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
