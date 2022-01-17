@@ -32,3 +32,39 @@ For now, we’ll mainly focus on the set of operations that can be used on numbe
 he data type of an expression is determined by the resulting value. 
 For example, an expression that uses two int values will evaluate to an int value.
 If an expression contains a double value, then the resulting value will also be type double.
+
+
+------------------------------------------------------------------------------------------------------------------
+                                            // Task // 
+                                            
+              Down below, you can see we have two defined interger, called mystery1, and mystery2. 
+              
+                                  public class GuessingGame {
+                      	            public static void main(String[] args) {   
+		                                 int mystery1 = 8 + 6;
+                                     int mystery2 = 8 - 6;
+	                                }
+                               }
+                               
+                           Use now, System.out.println(); to print out the variable that holds two. 
+                           
+                           
+ ------------------------       
+ 
+                           
+                      
+                           public class GuessingGame {
+                      	            public static void main(String[] args) {   
+		                                 int mystery1 = 8 + 6;
+                                     int mystery2 = 8 - 6;
+                                     System.out.println(mystery2);
+	                                }
+                               }
+                           
+                          
+                             
+                             
+                                           
+
+
+
